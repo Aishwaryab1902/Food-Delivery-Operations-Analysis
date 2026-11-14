@@ -1,0 +1,10 @@
+Metric,Value
+Total Orders,45584.0
+Average Delivery Time (min),26.29
+Median Delivery Time (min),26.0
+On-Time Orders,31982.0
+On-Time Delivery Rate (%),70.16
+Severe Delay Orders,1562.0
+Severe Delay Rate (%),3.43
+Orders with Missing Distance,3640.0
+Orders with Suspicious Distance,431.0
